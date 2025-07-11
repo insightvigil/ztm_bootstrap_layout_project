@@ -1,6 +1,6 @@
 ## Bootstrap Layout 🚀
 
-This repository contains my first deployment with bootstrap.
+This repository contains my first deployment using Bootstrap.
 
 ### Applied technologies 🧑‍💻
 - HTML
