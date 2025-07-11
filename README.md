@@ -1,6 +1,6 @@
 ## Bootstrap Layout 🚀
 
-This repository contains my default layout page for practicing and testing layouts built entirely with CSS.
+This repository contains my first deployment with bootstrap.
 
 ### Applied technologies 🧑‍💻
 - HTML
