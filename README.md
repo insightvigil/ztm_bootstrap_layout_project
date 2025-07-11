@@ -1,9 +1,10 @@
 ## Bootstrap Layout 🚀
 
-This repository contains my first deployment using Bootstrap.
+This repository contains my first deployment using Bootstrap and CSS. 
 
 ### Applied technologies 🧑‍💻
 - HTML
+- CSS
 - Bootstrap
 
 You can check it out live [here](https://insightvigil.github.io/ztm_bootstrap_layout_project
